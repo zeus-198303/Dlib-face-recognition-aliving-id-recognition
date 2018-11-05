@@ -12,7 +12,7 @@ opencv 3.4.0
 face recognition and aliving check with resnet /dlib, id card regconition with tessact api, the demo can compare face from video with id card face.
 
 
-1.video recognition,you should and a picture which have a face as model.
+1.video recognition,you should take a picture which have a face as model.
 
 2.aliving check .
 
