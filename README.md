@@ -16,5 +16,5 @@ face recognition and aliving check with resnet /dlib, id card regconition with t
 
 2.aliving check .
 
-3. id card (china ) recognition and face compre
+3.id card (china ) recognition and face compare
 
