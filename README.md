@@ -18,3 +18,8 @@ face recognition and aliving check with resnet /dlib, id card regconition with t
 
 3.id card (china ) recognition and face compare
 
+https://github.com/zeus-198303/Dlib-face-recognition-aliving-id-recognition/blob/master/testpic/20181105161931.jpg
+
+https://github.com/zeus-198303/Dlib-face-recognition-aliving-id-recognition/blob/master/testpic/20181105161945.jpg
+
+https://github.com/zeus-198303/Dlib-face-recognition-aliving-id-recognition/blob/master/testpic/20181105161921.jpg
