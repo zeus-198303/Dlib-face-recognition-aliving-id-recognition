@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+    Copyright (C) 2016 The Android Open Source Project
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+         http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <string name="app_name">人脸识别demo</string>
+    <string name="camera_permission_confirmation">This app demonstrates the usage of CameraView. In order to do that, it needs permission to access camera.</string>
+    <string name="camera_permission_not_granted">Camera app cannot do anything without camera permission.</string>
+    <string name="picture_taken">Picture taken</string>
+    <string name="aspect_ratio">Aspect ratio</string>
+    <string name="switch_flash">Switch flash</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="flash_auto">Flash auto</string>
+    <string name="flash_off">Flash off</string>
+    <string name="flash_on">Flash on</string>
+    <string name="take_picture">Recognize</string>
+    <string name="add_person">Add</string>
+    <string name="title_activity_add_person">AddPerson</string>
+    <string name="action_settings">Settings</string>
+    <string name="description_info">Select an image or open camera</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="mgctitle">人脸识别demo</string>
+    <string name="mgc_aliving">活体检测</string>
+    <string name="mgc_videorec">视频识别</string>
+    <string name="mgc_idrec">人证识别</string>
+    <string name="compare_result">对比结果</string>
+    <string name="similar_result">相似度%1$2f \%</string>
+    <string name="act_step">共三步，第%1$2d步</string>
+    <string name="act_timeout">检测超时</string>
+    <string name="act_sucess">验证成功</string>
+    <string name="act_Loading">请等待加载模型</string>
+    <string name="id_name">姓名：</string>
+    <string name="id_number">身份证号：</string>
+
+    <string-array name="living_actions">
+        <item>请缓慢左右摇头 </item>
+        <item>请点头 </item>
+        <item>请张嘴</item>
+    </string-array>
+
+</resources>
